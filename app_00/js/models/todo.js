@@ -7,17 +7,17 @@ Todos.Todo = DS.Model.extend({
 Todos.Todo.FIXTURES = [
     {
         id: 1,
-        title: 'Get the money',
+        title: 'get groceries',
         isCompleted: true
     },
     {
         id: 2,
-        title: 'Get the power',
+        title: 'do the laundry',
         isCompleted: false
     },
     {
         id: 3,
-        title: 'Get the women',
+        title: 'drink the beer',
         isCompleted: false
     }
 ];
